@@ -1,5 +1,8 @@
 # GH₵ Portfolio
 
+[![CI](https://github.com/Prodi9al/gse-portfolio/actions/workflows/ci.yml/badge.svg)](https://github.com/Prodi9al/gse-portfolio/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Tracks your IC Wealth (GSE) stock buys/sells and shows profit/loss and a
 progress-over-time graph. Built for two people (you + a friend) sharing one
 server — Telegram login just keeps your two portfolios from mixing; it's
